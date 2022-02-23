@@ -8,5 +8,3 @@
 <p align='left'> You can view my resume <a href='https://bpkk.acehsingkilkab.go.id/bpkk-aceh-singkil-luncurkan-aplikasi-e-arsip/' target=_blank><u>here</u>.</a></p>
 ## Some of my Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=ayahaceh alt=ayahaceh /> </p>
-
-[![Github stats](https://github-readme-stats.vercel.app/api?username=ayahaceh&show_icons=true&include_all_commits=true)](https://github.com/ayahaceh/github-readme-stats)
