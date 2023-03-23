@@ -1,8 +1,16 @@
-## Hey 👋, This is Alie
-[![Gmail Badge](https://img.shields.io/badge/-razali.kpu@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:razali.kpu@gmail.com)](mailto:razali.kpu@gmail.com)
-[![Github Badge](https://img.shields.io/badge/-ayahaceh-grey?style=flat&logo=github&logoColor=white&link=https://github.com/ayahaceh/)](https://www.github.com/ayahaceh/)
-[![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=https://dialeksis.com/berita/sambut-digitalisasi-birokrasi-kip-kota-lhokseumawe-luncurkan-aplikasi-e-arsip/)](https://dialeksis.com/berita/sambut-digitalisasi-birokrasi-kip-kota-lhokseumawe-luncurkan-aplikasi-e-arsip/)
-[![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=https://dialeksis.com/berita/sambut-digitalisasi-birokrasi-kip-kota-lhokseumawe-luncurkan-aplikasi-e-arsip/)](https://dialeksis.com/berita/sambut-digitalisasi-birokrasi-kip-kota-lhokseumawe-luncurkan-aplikasi-e-arsip/)
+## Hey 👋, This is Ali
+> A full-stack web developer and internet entreprenuer with over a decade of expertise.
+<p align='left'>Working for <a href='https://www.alidata.co.id/' target=_blank><strong>alidata</strong></a></p>
+<p>
+<img src=https://komarev.com/ghpvc/?username=ayahaceh alt=ayahaceh />
+  <a href="https://github.com/ayahaceh" target="_blank">
+    <img alt="Follow on GitHub" src="https://img.shields.io/github/followers/ayahaceh?label=Follow&style=social">
+  </a>
+  
+</p>
 
-<p align='left'>Working for <a href='https://www.alidata.co.id/' target=_blank><strong>alidata</strong></a></p
-<p align=left> <img src=https://komarev.com/ghpvc/?username=ayahaceh alt=ayahaceh /> </p>
+----
+
+[![Metrics](/github-metrics.svg)](https://github.com/ayahaceh)
+
+
